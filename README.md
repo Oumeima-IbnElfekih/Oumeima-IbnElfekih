@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Computer Science Engineer who is currently 🔭 working as a teacher at  🏫 ESPRIT ► and learning MERN stack web development</h3>
+<h3 align="center">A Computer Science Engineer who is currently 🔭 working as a teacher at  🏫 ESPRIT ► </h3>
 
 <br>
 
